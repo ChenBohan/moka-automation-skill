@@ -1,0 +1,17 @@
+{
+  "form_data": {
+    "city": "深圳",
+    "recommendation": {
+      "value": "自动驾驶软件_模型工程师",
+      "type": "textarea"
+    },
+    "name": "张浩然",
+    "email": "zhanghaorun@example.com",
+    "phone": "13800138000"
+  },
+  "settings": {
+    "headless": false,
+    "timeout": 30,
+    "wait_after_submit": 5
+  }
+}

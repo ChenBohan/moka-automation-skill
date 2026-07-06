@@ -1,0 +1,29 @@
+{
+  "form_data": {
+    "city": "深圳",
+    "recommendation": {
+      "value": "我在自动驾驶领域有丰富的算法开发经验，熟悉感知、决策规划等核心技术栈。曾参与多个L2+/L3级自动驾驶项目的算法设计与优化，具备扎实的C++/Python编程能力和深度学习框架使用经验。对DeepRoute的技术理念高度认同，希望能为公司的自动驾驶技术发展贡献力量。",
+      "type": "textarea"
+    },
+    "name": "张三",
+    "email": "zhangsan@example.com",
+    "phone": "13800138000",
+    "experience": {
+      "value": "我有5年的软件开发经验，专注于自动驾驶和计算机视觉领域。曾在多家科技公司担任高级工程师，负责算法开发和系统架构设计。",
+      "type": "textarea"
+    },
+    "education": "计算机科学与技术学士学位",
+    "cover_letter": {
+      "value": "尊敬的招聘负责人，\n\n我对贵公司的自动驾驶技术职位非常感兴趣。我相信我的技术背景和工作经验能够为团队带来价值。期待有机会与您进一步交流。\n\n此致\n敬礼",
+      "type": "textarea"
+    },
+    "graduation_time": "2018-06",
+    "expected_salary": "面议",
+    "available_time": "随时到岗"
+  },
+  "settings": {
+    "headless": false,
+    "timeout": 30,
+    "wait_after_submit": 5
+  }
+}

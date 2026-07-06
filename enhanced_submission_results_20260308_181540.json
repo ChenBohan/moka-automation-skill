@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "total_applications": 6,
+    "successful": 6,
+    "skipped": 0,
+    "failed": 0,
+    "success_rate": "100.0%"
+  },
+  "candidate_skip_status": {},
+  "detailed_results": [
+    {
+      "candidate_name": "Rue Wu",
+      "job_title": "训练优化工程师",
+      "recommendation": "吴玉茹在阿里巴巴实习期间完成大模型多智能体框架开发、Graph RAG 知识增强及模型评测体系搭建，拥有 KDD 一作在投论文、国家奖学金及亚太赛数学建模三等奖，熟练使用 PyTorch/Tensor...",
+      "city": "上海",
+      "success": true,
+      "error": null,
+      "feedback": "DRY RUN: Simulated success",
+      "skipped": false,
+      "skip_reason": null,
+      "timestamp": "2026-03-08 18:15:40.337816"
+    },
+    {
+      "candidate_name": "Rue Wu",
+      "job_title": "强化学习算法工程师",
+      "recommendation": "吴玉茹在阿里巴巴开发法律庭审、数学解题等多智能体 Agent 框架，拥有暨南大学应用统计硕士背景及数据挖掘大赛省奖，熟练掌握 Python 及 PyTorch 框架，具备强化学习算法工程师所需的机器学...",
+      "city": "上海",
+      "success": true,
+      "error": null,
+      "feedback": "DRY RUN: Simulated success",
+      "skipped": false,
+      "skip_reason": null,
+      "timestamp": "2026-03-08 18:15:40.337840"
+    },
+    {
+      "candidate_name": "樊文艳",
+      "job_title": "模型量化工程师",
+      "recommendation": "樊文艳在百度实习期间通过 RQ-VAE 量化多模态 Embedding 模型并落地推荐系统，在国家部委重点课题中完成 YOLOv8 模型 TensorRT 推理加速部署，拥有全国大学生数学竞赛国家三等...",
+      "city": "上海",
+      "success": true,
+      "error": null,
+      "feedback": "DRY RUN: Simulated success",
+      "skipped": false,
+      "skip_reason": null,
+      "timestamp": "2026-03-08 18:15:40.337878"
+    },
+    {
+      "candidate_name": "樊文艳",
+      "job_title": "训练优化工程师",
+      "recommendation": "樊文艳在百度实习期间完成 Qwen2-VL 大模型微调及 Flux 模型优化，掌握大模型训练与调优流程，拥有大连理工大学光电信息工程硕士背景且专业排名 top5%，具备训练优化工程师所需的模型性能优化...",
+      "city": "上海",
+      "success": true,
+      "error": null,
+      "feedback": "DRY RUN: Simulated success",
+      "skipped": false,
+      "skip_reason": null,
+      "timestamp": "2026-03-08 18:15:40.337885"
+    },
+    {
+      "candidate_name": "明瑞煜",
+      "job_title": "软件工程师",
+      "recommendation": "明瑞煜在华为 2012 实验室实习期间完成鸿蒙多媒体子系统解封装模块开发，性能不弱于 ffmpeg，拥有杭州电子科技大学通信工程硕士背景及 Image and Vision Computing 一作论...",
+      "city": "深圳",
+      "success": true,
+      "error": null,
+      "feedback": "DRY RUN: Simulated success",
+      "skipped": false,
+      "skip_reason": null,
+      "timestamp": "2026-03-08 18:15:40.337934"
+    },
+    {
+      "candidate_name": "明瑞煜",
+      "job_title": "推理引擎开发工程师",
+      "recommendation": "明瑞煜在华为实习期间完成多媒体解封装器框架设计与开发，具备较强的软件开发和架构能力，熟悉异构计算相关的工程实现，拥有通信工程专业的系统知识储备及相关顶刊论文发表经历，可支撑自动驾驶推理引擎的工程开发与...",
+      "city": "深圳",
+      "success": true,
+      "error": null,
+      "feedback": "DRY RUN: Simulated success",
+      "skipped": false,
+      "skip_reason": null,
+      "timestamp": "2026-03-08 18:15:40.337942"
+    }
+  ]
+}

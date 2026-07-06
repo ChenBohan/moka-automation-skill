@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "total_applications": 2,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 1,
+    "success_rate": "50.0%"
+  },
+  "candidate_skip_status": {},
+  "detailed_results": [
+    {
+      "candidate_name": "李省壮",
+      "job_title": "训练优化工程师",
+      "recommendation": "李省壮在 OPPO 研究院实习期间主导 LLaMa 架构 138M 参数模型全流程训练，创新采用逐 Batch 稀疏混合采样策略提升个性化场景 TOP5 命中率 30%，参与国家自然科学基金课题实现 ...",
+      "city": "上海",
+      "success": false,
+      "error": null,
+      "feedback": "失败\n您推荐的候选人「李省壮」在系统中已存在",
+      "skipped": false,
+      "skip_reason": null,
+      "timestamp": "2026-03-08 17:56:55.821286"
+    },
+    {
+      "candidate_name": "李省壮",
+      "job_title": "强化学习算法工程师",
+      "recommendation": "李省壮在 OPPO 研究院完成 RLHF 训练优化端侧个性化输入法模型，搭建 Agent 沙盒模型生成高质量社交对话数据用于强化学习对齐，获国创年会推荐，熟练掌握 GRPO 等强化学习算法与 PyTo...",
+      "city": "上海",
+      "success": true,
+      "error": null,
+      "feedback": "DRY RUN: Simulated success",
+      "skipped": false,
+      "skip_reason": null,
+      "timestamp": "2026-03-08 17:56:55.821310"
+    }
+  ]
+}

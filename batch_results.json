@@ -1,0 +1,72 @@
+[
+  {
+    "candidate_name": "张浩然",
+    "resume_path": "/home/chenbohan/Downloads/【【2026春招】自动驾驶软件_模型工程师_深圳 20-40K】张浩然 26年应届生.pdf",
+    "target_city": "深圳市",
+    "matched_jobs": [
+      [
+        "软件工程师",
+        "https://app.mokahr.com/recommendation-apply/deeproute/6488#/job/46b38798-aea8-426a-a8cf-78084090daf6/apply",
+        "张浩然具备硕士学历背景，曾在深圳北斗应用技术研究院等知名企业实习，掌握C++/Python等核心开发语言，熟练掌握PyTorch, 编程语言等核心技术，获得奖学金, SCI论文发表等荣誉，符合软件工程师的技术要求和团队协作能力。"
+      ],
+      [
+        "训练优化工程师",
+        "https://app.mokahr.com/recommendation-apply/deeproute/6488#/job/64ad4641-77e0-4c9d-9602-2ef29b851d5a/apply",
+        "张浩然拥有硕士学历，曾在深圳北斗应用技术研究院等知名企业实习，深度掌握PyTorch框架和分布式训练优化，熟练掌握PyTorch, 编程语言等核心技术，获得奖学金, SCI论文发表等荣誉，在模型训练效率提升方面有丰富实践经验。"
+      ]
+    ],
+    "submission_results": [
+      {
+        "job_title": "软件工程师",
+        "submit_url": "https://app.mokahr.com/recommendation-apply/deeproute/6488#/job/46b38798-aea8-426a-a8cf-78084090daf6/apply",
+        "recommendation": "张浩然具备硕士学历背景，曾在深圳北斗应用技术研究院等知名企业实习，掌握C++/Python等核心开发语言，熟练掌握PyTorch, 编程语言等核心技术，获得奖学金, SCI论文发表等荣誉，符合软件工程师的技术要求和团队协作能力。",
+        "success": true,
+        "feedback": "失败\n您推荐的候选人「张浩然」目前尚在保护期内，您无法重复推荐",
+        "error": ""
+      },
+      {
+        "job_title": "训练优化工程师",
+        "submit_url": "https://app.mokahr.com/recommendation-apply/deeproute/6488#/job/64ad4641-77e0-4c9d-9602-2ef29b851d5a/apply",
+        "recommendation": "张浩然拥有硕士学历，曾在深圳北斗应用技术研究院等知名企业实习，深度掌握PyTorch框架和分布式训练优化，熟练掌握PyTorch, 编程语言等核心技术，获得奖学金, SCI论文发表等荣誉，在模型训练效率提升方面有丰富实践经验。",
+        "success": true,
+        "feedback": "失败\n您推荐的候选人「张浩然」目前尚在保护期内，您无法重复推荐",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "candidate_name": "李省壮",
+    "resume_path": "/home/chenbohan/Downloads/【【2026校招】自动驾驶大模型_端到端算法岗_上海 20-40K】李省壮 26年应届生.pdf",
+    "target_city": "上海市",
+    "matched_jobs": [
+      [
+        "软件工程师",
+        "https://app.mokahr.com/recommendation-apply/deeproute/6488#/job/46b38798-aea8-426a-a8cf-78084090daf6/apply",
+        "李省壮具备硕士学历背景，曾在商汤科技等知名企业实习，掌握C++/Python等核心开发语言，熟练掌握PyTorch, 编程语言等核心技术，获得特等奖学金, 顶级会议论文发表等荣誉，符合软件工程师的技术要求和团队协作能力。"
+      ],
+      [
+        "训练优化工程师",
+        "https://app.mokahr.com/recommendation-apply/deeproute/6488#/job/64ad4641-77e0-4c9d-9602-2ef29b851d5a/apply",
+        "李省壮拥有硕士学历，曾在商汤科技等知名企业实习，深度掌握PyTorch框架和分布式训练优化，熟练掌握PyTorch, 编程语言等核心技术，获得特等奖学金, 顶级会议论文发表等荣誉，在模型训练效率提升方面有丰富实践经验。"
+      ]
+    ],
+    "submission_results": [
+      {
+        "job_title": "软件工程师",
+        "submit_url": "https://app.mokahr.com/recommendation-apply/deeproute/6488#/job/46b38798-aea8-426a-a8cf-78084090daf6/apply",
+        "recommendation": "李省壮具备硕士学历背景，曾在商汤科技等知名企业实习，掌握C++/Python等核心开发语言，熟练掌握PyTorch, 编程语言等核心技术，获得特等奖学金, 顶级会议论文发表等荣誉，符合软件工程师的技术要求和团队协作能力。",
+        "success": true,
+        "feedback": "失败\n您推荐的候选人「李省壮」在系统中已存在",
+        "error": ""
+      },
+      {
+        "job_title": "训练优化工程师",
+        "submit_url": "https://app.mokahr.com/recommendation-apply/deeproute/6488#/job/64ad4641-77e0-4c9d-9602-2ef29b851d5a/apply",
+        "recommendation": "李省壮拥有硕士学历，曾在商汤科技等知名企业实习，深度掌握PyTorch框架和分布式训练优化，熟练掌握PyTorch, 编程语言等核心技术，获得特等奖学金, 顶级会议论文发表等荣誉，在模型训练效率提升方面有丰富实践经验。",
+        "success": true,
+        "feedback": "失败\n您推荐的候选人「李省壮」在系统中已存在",
+        "error": ""
+      }
+    ]
+  }
+]

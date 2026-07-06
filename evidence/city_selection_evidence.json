@@ -1,0 +1,109 @@
+{
+  "initial_state": {
+    "value": "",
+    "placeholder": "选择意向工作城市",
+    "class": "sd-Input-input-QsLkW sd-Input-common-input-21SDH sd-Input-has-addon-SMZCZ",
+    "readonly": null,
+    "disabled": null,
+    "data_attributes": {}
+  },
+  "after_focus": {
+    "value": "",
+    "active_element": true
+  },
+  "after_typing": {
+    "value": "深",
+    "input_event_fired": true
+  },
+  "dropdown_options": [
+    {
+      "text": "广东·深圳市等2个地点",
+      "tag": "span",
+      "class": "",
+      "selector_used": "//*[contains(text(), '深圳') and not(contains(text(), '元戎启行'))]",
+      "clickable": true,
+      "location": {
+        "x": 361,
+        "y": 207
+      },
+      "size": {
+        "height": 16,
+        "width": 138
+      }
+    },
+    {
+      "text": "深圳市",
+      "tag": "div",
+      "class": "option-label-p2B4XVc4Pn",
+      "selector_used": "//*[contains(text(), '深圳') and not(contains(text(), '元戎启行'))]",
+      "clickable": true,
+      "location": {
+        "x": 211,
+        "y": 462
+      },
+      "size": {
+        "height": 20,
+        "width": 251
+      }
+    },
+    {
+      "text": "【【2026春招】自动驾驶软件_模型工程师_深圳 20-40K】张浩然 26年应届生.pdf",
+      "tag": "span",
+      "class": "",
+      "selector_used": "//*[contains(text(), '深圳') and not(contains(text(), '元戎启行'))]",
+      "clickable": true,
+      "location": {
+        "x": 218,
+        "y": 545
+      },
+      "size": {
+        "height": 16,
+        "width": 496
+      }
+    }
+  ],
+  "before_click": {
+    "input_value": "深",
+    "option_text": "广东·深圳市等2个地点",
+    "option_visible": true,
+    "option_enabled": true,
+    "option_location": {
+      "x": 361,
+      "y": 207
+    }
+  },
+  "after_click": {
+    "input_value_before": "深",
+    "input_value_after": "",
+    "value_changed": true,
+    "dropdown_still_visible": true
+  },
+  "javascript_events": [
+    {
+      "target": "INPUT",
+      "timestamp": 1772907223582,
+      "type": "event_change",
+      "value": "深"
+    },
+    {
+      "target": "INPUT",
+      "timestamp": 1772907223582,
+      "type": "event_blur",
+      "value": "深"
+    },
+    {
+      "newValue": "",
+      "oldValue": "深",
+      "timestamp": 1772907223596,
+      "type": "value_attribute_change"
+    }
+  ],
+  "dom_changes": {
+    "hasAngularScope": false,
+    "hasDataReactId": false,
+    "hasNgModel": false,
+    "hasReactFiber": false,
+    "hasVueInstance": false,
+    "parentClasses": "sd-Input-container-3OoVt sd-Select-container-D6nZH select error-ssB9wMzEaC no-adaptive-tooltip sd-Input-lg-39_0c sd-Input-error-26mRf"
+  }
+}

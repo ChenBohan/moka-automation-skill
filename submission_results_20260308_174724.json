@@ -1,0 +1,360 @@
+[
+  {
+    "candidate_name": "李省壮",
+    "job_title": "训练优化工程师",
+    "recommendation": "李省壮在 OPPO 研究院实习期间主导 LLaMa 架构 138M 参数模型全流程训练，创新采用 “逐 Batch 稀疏混合” 采样策略提升个性化场景 TOP5 命中率 30%，参与国家自然科学基金课...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.995931"
+  },
+  {
+    "candidate_name": "李省壮",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "李省壮在 OPPO 研究院完成 RLHF 训练优化端侧个性化输入法模型，搭建 Agent 沙盒模型生成高质量社交对话数据用于强化学习对齐，获国创年会推荐，熟练掌握 GRPO 等强化学习算法与 PyTo...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.995959"
+  },
+  {
+    "candidate_name": "樊文艳",
+    "job_title": "模型量化工程师",
+    "recommendation": "樊文艳在百度实习期间通过 RQ-VAE 量化多模态 Embedding 模型并落地推荐系统，在国家部委重点课题中完成 YOLOv8 模型 TensorRT 推理加速部署，获全国大学生数学竞赛国家三等奖...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996001"
+  },
+  {
+    "candidate_name": "樊文艳",
+    "job_title": "训练优化工程师",
+    "recommendation": "樊文艳在百度实习期间完成 Qwen2-VL 大模型微调及 Flux 模型优化，拥有大连理工大学光电信息工程硕士背景且专业排名 top5%，掌握大模型训练调优流程，具备训练优化工程师所需的模型性能优化与...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996009"
+  },
+  {
+    "candidate_name": "周鑫",
+    "job_title": "软件工程师",
+    "recommendation": "周鑫在小米科技实习期间基于 LangGraph 构建多 Agent 协作框架开发用户反馈智能分析平台，获第十五届蓝桥杯 JavaB 组全国三等奖、睿抗机器人开发大赛国赛三等奖，精通 Java/Go 与...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996045"
+  },
+  {
+    "candidate_name": "周鑫",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "周鑫在字节跳动实习期间开发 AB 实验自动化送审平台，在南京微著信息科技公司完成智慧气象平台消息推送服务改造，获华为 ICT 大赛省赛二等奖，熟悉 LangGraph 与 Agent 开发，具备强化学...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996052"
+  },
+  {
+    "candidate_name": "谷鹏昆",
+    "job_title": "软件工程师",
+    "recommendation": "谷鹏昆在科大讯飞实习期间参与医疗 AI 算法项目，通过 OCR 识别与 Milvus 向量检索构建 RAG 知识库支撑大模型推荐，获第十五届蓝桥杯 JavaA 组省二等奖、睿抗机器人大赛省三等奖，精通...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996084"
+  },
+  {
+    "candidate_name": "谷鹏昆",
+    "job_title": "训练优化工程师",
+    "recommendation": "谷鹏昆开发 ai coding assistant 项目集成 RAG 知识库与 MCP 工具，实现代码生成与解答的流式输出，熟悉 Langchain4j 框架与模型部署，具备训练优化工程师所需的模型应...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996090"
+  },
+  {
+    "candidate_name": "陈鹏鸿",
+    "job_title": "软件工程师",
+    "recommendation": "陈鹏鸿在端脑科技（深圳）有限公司实习期间开发用户中心系统实现高并发用户身份管理，获第十五届、十六届蓝桥杯广东赛区 C/C++ 组二等奖，精通 Go/Java 与 Gin、Go-zero 框架，熟悉 L...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996124"
+  },
+  {
+    "candidate_name": "陈鹏鸿",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "陈鹏鸿在软通动力参与 “硅基实验室” AI 医药科研平台开发，构建多 Agent 协同论证系统与智能体 “思维导航” 系统，熟练掌握 Python 与 Fastapi 框架，具备强化学习算法工程师所需...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996131"
+  },
+  {
+    "candidate_name": "贾昊宇",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "贾昊宇在佑驾创新（minieye）实习期间基于通义千问 2.5VL 构建智慧座舱多模态大模型，完成 SFT 与强化学习微调优化幻觉问题，发表 ICME 在投 CCF B 类会议一作论文，获全国大学生英...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996162"
+  },
+  {
+    "candidate_name": "贾昊宇",
+    "job_title": "训练优化工程师",
+    "recommendation": "贾昊宇参与半监督开放集学习科研项目，提出动态 OOD 队列与虚拟异常合成策略提升模型性能，拥有天津大学计算机科学与技术硕士背景，具备训练优化工程师所需的模型训练与性能优化能力",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996170"
+  },
+  {
+    "candidate_name": "陆坚",
+    "job_title": "训练优化工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996218"
+  },
+  {
+    "candidate_name": "陆坚",
+    "job_title": "模型量化工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996221"
+  },
+  {
+    "candidate_name": "吴玉茹",
+    "job_title": "强化学习算法工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996247"
+  },
+  {
+    "candidate_name": "吴玉茹",
+    "job_title": "训练优化工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996249"
+  },
+  {
+    "candidate_name": "段伟祯",
+    "job_title": "训练优化工程师",
+    "recommendation": "段伟祯在中国航空工业集团有限公司项目中设计重参数化视角感知网络提升识别精度 8%，在成都翼比特自动化设备有限公司实习期间优化 YOLOv8 架构实现电网销钉缺失检测召回率 0.95，发表 IEEE T...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996281"
+  },
+  {
+    "candidate_name": "段伟祯",
+    "job_title": "模型量化工程师",
+    "recommendation": "段伟祯在复杂干扰下小样本 SAR 图像识别项目中提出自适应降噪算法，提升模型在噪声场景下的鲁棒性，熟悉 CNN 架构与数据增强策略，具备模型量化工程师所需的模型优化与抗干扰能力",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996289"
+  },
+  {
+    "candidate_name": "黎达",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "黎达在英特灵达实习期间开发 SKEL-CF 三维人体重建框架，在 MOYO 数据集上取得 85.0 MPJPE 的 SOTA 性能，拥有深圳大学人工智能硕士背景，精通 Python 与 PyTorch...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996321"
+  },
+  {
+    "candidate_name": "黎达",
+    "job_title": "训练优化工程师",
+    "recommendation": "黎达主导 Adapt pointformer 项目实现预训练二维模型适配三维点云分析，熟悉 Transformer 架构与模型微调流程，具备训练优化工程师所需的跨模态模型训练与性能提升能力",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996327"
+  },
+  {
+    "candidate_name": "杨俊科",
+    "job_title": "软件工程师",
+    "recommendation": "杨俊科在百度在线网络技术有限公司实习期间参与百度网盘群聊模块开发，在珠海金山办公软件有限公司完成 WPS 演示内核模块 bug 修复与单元测试，精通 C++ 与 Qt 框架，熟悉 Linux 环境开发...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996358"
+  },
+  {
+    "candidate_name": "杨俊科",
+    "job_title": "推理引擎开发工程师",
+    "recommendation": "杨俊科开发 Geranium iOS 系统工具应用实现位置模拟与坐标系转换，熟悉 SwiftUI 与系统级 API 调用，具备推理引擎开发工程师所需的工程实现与性能优化潜力",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996364"
+  },
+  {
+    "candidate_name": "姜昊岩",
+    "job_title": "训练优化工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996393"
+  },
+  {
+    "candidate_name": "姜昊岩",
+    "job_title": "强化学习算法工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996395"
+  },
+  {
+    "candidate_name": "赖文斌",
+    "job_title": "训练优化工程师",
+    "recommendation": "赖文斌在阿里巴巴菜鸟平台实习期间采用 SFT-then-RL 范式训练包裹破损判责 MLLM，关键指标提升 20% 以上，参与科技部科技创新 2030 重大项目优化思源视觉大模型性能，发表 CCF-A...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996422"
+  },
+  {
+    "candidate_name": "赖文斌",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "赖文斌在宁德时代实习期间改进交互式分割算法并部署上线，构建代码生成 Agent 实现端到端自动化开发，熟悉 GRPO 算法与模型微调流程，具备强化学习算法工程师所需的算法落地与工程化能力",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996428"
+  },
+  {
+    "candidate_name": "高光平",
+    "job_title": "软件工程师",
+    "recommendation": "高光平在科大讯飞实习期间参与大型企业采购招投标智能问答系统开发，设计 “向量检索 + BM25” 混合检索架构提升召回率，发表一篇 SCI 论文，精通 Python 与 FastAPI 框架，熟悉 L...",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996461"
+  },
+  {
+    "candidate_name": "高光平",
+    "job_title": "训练优化工程师",
+    "recommendation": "高光平完成电商智能客服项目，基于 Qwen3-8B 采用 LoRA 策略完成模型微调，熟悉 LLaMA-Factory 与 vLLM 部署，具备训练优化工程师所需的模型微调与部署优化能力",
+    "city": "上海",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996467"
+  },
+  {
+    "candidate_name": "雷润权",
+    "job_title": "推理引擎开发工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996496"
+  },
+  {
+    "candidate_name": "雷润权",
+    "job_title": "软件工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996498"
+  },
+  {
+    "candidate_name": "于思嘉",
+    "job_title": "软件工程师",
+    "recommendation": "于思嘉在优必选实习期间基于 ROSA 框架完成系统信息管理模块开发，参与直播互动平台项目实现高并发推拉流功能，获第二届全国大学生 C 语言程序设计大赛二等奖，精通 C/C++ 与 Linux 环境开发...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996526"
+  },
+  {
+    "candidate_name": "于思嘉",
+    "job_title": "推理引擎开发工程师",
+    "recommendation": "于思嘉开发畅聊实时通讯软件实现多客户端并发连接，熟悉 TCP 协议与线程池技术，具备推理引擎开发工程师所需的工程实现与并发处理能力",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996532"
+  },
+  {
+    "candidate_name": "叶力克特・沙布尔别克",
+    "job_title": "软件工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996561"
+  },
+  {
+    "candidate_name": "叶力克特・沙布尔别克",
+    "job_title": "强化学习算法工程师",
+    "success": false,
+    "error": "Resume file not found",
+    "timestamp": "2026-03-08 17:47:24.996563"
+  },
+  {
+    "candidate_name": "明瑞煜",
+    "job_title": "软件工程师",
+    "recommendation": "明瑞煜在华为 2012 实验室实习期间完成鸿蒙多媒体子系统解封装模块全流程开发，性能不弱于 ffmpeg，发表 Image and Vision Computing 一作顶刊论文，熟练掌握 C++/P...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996600"
+  },
+  {
+    "candidate_name": "明瑞煜",
+    "job_title": "推理引擎开发工程师",
+    "recommendation": "明瑞煜在华为实习期间完成 MP4 解封装器框架设计与开发，具备较强的软件开发和架构能力，熟悉多媒体数据处理的工程实现，拥有通信工程专业系统知识及顶刊论文发表经历，可支撑自动驾驶推理引擎的工程开发与优化...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996607"
+  },
+  {
+    "candidate_name": "柴瑞婷",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "柴瑞婷在腾讯云计算有限责任公司实习期间基于 LangGraph 构建复杂 Agent 工作流，参与 “华为杯” 中国研究生数学建模竞赛二等奖项目，开发基于 YOLOv8 的交通检测系统，发表 Appl...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996638"
+  },
+  {
+    "candidate_name": "柴瑞婷",
+    "job_title": "训练优化工程师",
+    "recommendation": "柴瑞婷提出混合注意力机制音乐情感识别模型，在公开数据集上准确率显著提升，熟悉 CNN 与注意力机制，具备训练优化工程师所需的模型设计与性能优化能力",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996644"
+  },
+  {
+    "candidate_name": "王俊昕",
+    "job_title": "软件工程师",
+    "recommendation": "王俊昕在大族激光担任软件工程师期间主导视觉套料软件研发，基于 YOLO 模型训练人体检测功能，获国家发明专利 1 项，获第十二届大唐杯河北省三等奖，精通 C++ 与 OpenCV 框架，熟悉 TCP/...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996689"
+  },
+  {
+    "candidate_name": "王俊昕",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "王俊昕参与基于 Transformer 的帕金森语音诊断项目，模型诊断准确率达 96%，熟悉深度学习模型设计，具备强化学习算法工程师所需的算法研发与医疗场景落地能力",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996696"
+  },
+  {
+    "candidate_name": "阳博",
+    "job_title": "软件工程师",
+    "recommendation": "阳博在上海米哈游网络科技股份有限公司实习期间开发智能 OnCall Agent 系统，集成多工具实现运维故障智能排查，获校级奖学金，精通 Go/Java 与 Eino 框架，熟悉 Redis、Kafk...",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996737"
+  },
+  {
+    "candidate_name": "阳博",
+    "job_title": "强化学习算法工程师",
+    "recommendation": "阳博在绿盟科技开发基于 RAG 的智能知识库平台，设计 React 模式智能 Agent 架构降低模型幻觉率，发表 PRCV 会议论文，具备强化学习算法工程师所需的智能体开发与知识增强能力",
+    "city": "深圳",
+    "success": true,
+    "error": null,
+    "timestamp": "2026-03-08 17:47:24.996744"
+  }
+]
